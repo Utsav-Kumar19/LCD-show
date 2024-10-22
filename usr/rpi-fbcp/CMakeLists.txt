@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-
+project(MyProject)
 SET(COMPILE_DEFINITIONS -Werror)
 
 include_directories(/opt/vc/include)
